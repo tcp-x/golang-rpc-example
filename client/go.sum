@@ -1,2 +1,4 @@
-github.com/zeptonaut/golang-rpc-example v0.0.0-20150210214719-a5e25625bd80 h1:eqRRigXAzJOKQETwxTBj8F+t6hgCu1fjzhAIiFJ4XXw=
+github.com/tcp-x/golang-rpc-example v0.0.0-20150210214719-a5e25625bd80 h1:eqRRigXAzJOKQETwxTBj8F+t6hgCu1fjzhAIiFJ4XXw=
+github.com/tcp-x/golang-rpc-example v0.0.0-20240315035228-0d6e6bb097bb h1:0UDRfIcfyPacg9FUfO26+vPgnsdLrfrhOVxmJXX3PIs=
+github.com/tcp-x/golang-rpc-example v0.0.0-20240315035228-0d6e6bb097bb/go.mod h1:uzYWX3wqSwD6gGIQYSJ5f2F7qpNsLPlJPwYuBY682mI=
 github.com/zeptonaut/golang-rpc-example v0.0.0-20150210214719-a5e25625bd80/go.mod h1:PNOnCKfjVAjlyJcyN7k1DtXF74CBFAGhXiz30a28eXQ=

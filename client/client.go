@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/rpc"
 
-	"github.com/zeptonaut/golang-rpc-example/service"
+	"github.com/tcp-x/golang-rpc-example/service"
 )
 
 var server = flag.String("server_port", "localhost:9999", "Address at which to reach the server.")

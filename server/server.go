@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"net/rpc"
 
-	"github.com/zeptonaut/golang-rpc-example/service"
+	"github.com/tcp-x/golang-rpc-example/service"
 )
 
 var port = flag.Int("port", 9999, "Port on which to start the server.")
